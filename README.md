@@ -1,1 +1,1 @@
-# login and register fro the given the user and searches the cryptocurrency 
+# Website register and logins for the given the User and Searches the Cryptocurrency 
